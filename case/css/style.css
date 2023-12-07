@@ -2,9 +2,18 @@ body{
 	margin: 0;
 	background: #594e45;
 	color: white;
-	
+	width: auto;
 	font-size: 15px;
 	font-family: 'Open Sans', sans-serif;
+}
+
+form{
+	text-align: center;
+	margin-top: 12em;
+}
+
+table{
+	justify-content: center;
 }
 
 i{
